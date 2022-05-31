@@ -16,9 +16,6 @@
 }
 
 @media (max-width: 550px) {
-    .container {
-        height: 150vh !important;
-    }
 
     .txt {
         flex-direction: column;
